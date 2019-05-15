@@ -36,6 +36,12 @@ D0000000 00000000
 [Max Money, Game v1.4]
 08C71DC0 0098967F
 
+[Master Ball Items 1.Slot, Game v1.0]
+18C6AC80 00000001
+
+[repel steps]
+28C8147E 000000FF
+
 [99x Items 1.Slot, Game v1.4]
 28C6EC72 00000063
 
