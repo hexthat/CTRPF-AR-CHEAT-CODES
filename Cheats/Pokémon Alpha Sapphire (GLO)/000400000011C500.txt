@@ -39,7 +39,7 @@ D0000000 00000000
 [Master Ball Items 1.Slot, Game v1.0]
 18C6AC80 00000001
 
-[repel steps]
+[repel steps 255, Game v1.0]
 28C8147E 000000FF
 
 [99x Items 1.Slot, Game v1.4]
