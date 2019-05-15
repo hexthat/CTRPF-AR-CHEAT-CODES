@@ -42,6 +42,12 @@ D0000000 00000000
 [99x Items 2.Slot, Game v1.4]
 28C6EC76 00000063
 
+[99x Items 1.Slot, Game v1.0]
+28C6AC82 00000063
+
+[99x Berries 1.Slot, Game v1.0]
+28C6B6F2 00000063
+
 [O-Power Always Full]
 28C83D94 0000000A
 
